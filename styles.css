@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  height: 400vh;
 }
 
 .topnav {
@@ -56,4 +57,8 @@ body {
     display: block;
     text-align: left;
   }
+}
+
+section {
+  padding: 10px;
 }
